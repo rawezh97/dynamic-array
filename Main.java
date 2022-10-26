@@ -3,22 +3,6 @@ import java.util.*;
 public class Main {
     public static void main(String[] args) {
 
-        // create by this team
-        //Muhamad Omer
-        //Payam Muhamad
-        //Muhamad Osman
-        //Rawezh Lwqman
-        //Aram Rasul
-
-        /*
-
-        lakaty remove krdny nrxekda size arrayakaman kam dakat
-        balam atwanret haman size bet la jey labrawaka null man  bate
-
-        */
-
-
-
         DynamicArray<Object> dclass = new DynamicArray<Object>();
         Scanner input = new Scanner(System.in);
         System.out.println("your current array is [null]");
